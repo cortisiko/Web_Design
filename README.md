@@ -1,1 +1,1 @@
-# Web_Design
+This is a website which gives an insight on chocolate, ranging from the history of chocolate and major chocolate companies. This was created in HTML and using fluid layout in CSS. Furthermore, a CSS slide show was also created on the homepage. Welcome to the Chocolate Zone! Enjoy.  
